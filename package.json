@@ -12,6 +12,11 @@
     "styled-components": "^5.3.6",
     "web-vitals": "^2.1.4"
   },
+  "person": {
+    "name": "Vitoria Maria",
+    "email": "vitoria.dev@outlook.com",
+    "url": "https://desafio-frontend-lilac.vercel.app/"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
